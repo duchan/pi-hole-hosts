@@ -1,2 +1,3 @@
 # hosts
-my hosts for pi-hole
+My SK hosts for pi-hole not covered by other lists I'm using.
+
