@@ -1,3 +1,2 @@
-# hosts
-My SK hosts for pi-hole not covered by other lists I'm using.
-
+# Hosts
+My SK hosts not covered by other lists I'm usingfor Pi-Hole.
